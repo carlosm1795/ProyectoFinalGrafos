@@ -1,0 +1,6 @@
+San Jose;Cartago;Heredia;Alajuela
+26;12;18
+Cartago;San Jose;Turrialba;Tres Rios
+27;60;12
+Tres Rios;Cartago;San Jose;Heredia
+2;12;18
